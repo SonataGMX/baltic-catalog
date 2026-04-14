@@ -148,6 +148,57 @@
       ]
     },
     {
+      "rel": "child",
+      "href": "./forest_lit_lat_est_2025_winter/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss In Baltic States 2025 winter",
+      "id": "forest_lit_lat_est_2025_winter",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main//thumbnails/forest_lt.png"
+      ],
+      "eodash:mapProjection": "EPSG:3857"
+    },
+    {
+      "rel": "child",
+      "href": "./forest_lt_m05-09/collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in Lithuania 2024 05-09",
+      "id": "forest_lt_m05-09",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main//thumbnails/forest_lt.png"
+      ]
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in Poland (2024-06 - 2025-06) /collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in Poland (2024-06 - 2025-06)",
+      "id": "Forest Loss in Poland (2024-06 - 2025-06) ",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main//thumbnails/forest_lt.png"
+      ],
+      "eodash:mapProjection": {
+        "name": "",
+        "def": "",
+        "extent": [
+          13.323205271117939,
+          48.08372833456975,
+          25.18572551492741,
+          55.149564275700854
+        ]
+      }
+    },
+    {
+      "rel": "child",
+      "href": "./Forest Loss in Germany (2024-06 - 2025-06) /collection.json",
+      "type": "application/json",
+      "title": "Forest Loss in Germany (2024-06 - 2025-06) ",
+      "id": "Forest Loss in Germany (2024-06 - 2025-06) ",
+      "thumbnail": [
+        "https://raw.githubusercontent.com/baltic-gtif/assets/refs/heads/main//thumbnails/forest_lt.png"
+      ]
+    },
+    {
       "rel": "self",
       "href": "https://baltic-gtif.github.io/baltic-gtif/baltic-catalog/catalog.json",
       "type": "application/json"
